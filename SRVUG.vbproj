@@ -8,14 +8,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{F7AFB527-2181-49EC-A755-18E901A9C007}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>subrock_dl_gui.My.MyApplication</StartupObject>
-    <RootNamespace>subrock_dl_gui</RootNamespace>
-    <AssemblyName>SRVUG</AssemblyName>
+    <StartupObject>rocktube_dl_gui.My.MyApplication</StartupObject>
+    <RootNamespace>rocktube_dl_gui</RootNamespace>
+    <AssemblyName>rock-dl</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
-    <PublishUrl>C:\Users\rand0m\Desktop\</PublishUrl>
+    <PublishUrl>C:\Users\Red\Desktop\rock-dl</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
